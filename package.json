@@ -1,0 +1,19 @@
+{
+  "name": "endterm",
+  "version": "0.1.0",
+  "description": "Work did by Nurbek Abeuov",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nurbek766/Endterm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nurbek766/Endterm/issues"
+  },
+  "homepage": "https://github.com/Nurbek766/Endterm#readme"
+}
